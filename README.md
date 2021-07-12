@@ -1,8 +1,6 @@
 # image-augmentation-for-yolo
 Without rotation and scaling, this script will augment labeled images for detection and dublicate the label .txt file
  Data augmentation for yolo with keeping the position of objects
- Melih Aslan
- maslanky@gmail.com
 
  Usage:
  Determine the folder name and number of augmented image number per original image:

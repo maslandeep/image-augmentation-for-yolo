@@ -2,7 +2,7 @@
 Without rotation and scaling, this script will augment labeled images for detection and dublicate the label .txt file
  Data augmentation for `yolo` with keeping the position of objects
 
- *sage*
+ *Usage*
  Determine the folder name and number of augmented image number per original image:
  Ex:    `folder="try"`
         `number_of_desired_augmented_images = 10`
